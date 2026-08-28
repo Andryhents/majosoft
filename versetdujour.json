@@ -1,111 +1,1462 @@
 [
-  { "id": 1, "reference": "Jaona 3:16" },
-  { "id": 2, "reference": "Salamo 23:1" },
-  { "id": 3, "reference": "Matio 5:3" },
-  { "id": 4, "reference": "Romana 8:28" },
-  { "id": 5, "reference": "Filipiana 4:13" },
-  { "id": 6, "reference": "Genesisy 1:1" },
-  { "id": 7, "reference": "Eksodosy 20:3" },
-  { "id": 8, "reference": "Salamo 119:105" },
-  { "id": 9, "reference": "Ohabolana 3:5" },
-  { "id": 10, "reference": "Isaia 40:31" },
-
-  { "id": 11, "reference": "Jeremia 29:11" },
-  { "id": 12, "reference": "Matio 6:33" },
-  { "id": 13, "reference": "Jaona 14:6" },
-  { "id": 14, "reference": "Asan'ny Apostoly 1:8" },
-  { "id": 15, "reference": "Romana 12:2" },
-  { "id": 16, "reference": "1 Korintiana 13:4" },
-  { "id": 17, "reference": "Galatiana 5:22" },
-  { "id": 18, "reference": "Efesiana 2:8" },
-  { "id": 19, "reference": "Filipiana 4:6" },
-  { "id": 20, "reference": "Kolosiana 3:23" },
-
-  { "id": 21, "reference": "1 Tesaloniana 5:17" },
-  { "id": 22, "reference": "2 Timoty 1:7" },
-  { "id": 23, "reference": "Hebreo 11:1" },
-  { "id": 24, "reference": "Jakoba 1:5" },
-  { "id": 25, "reference": "1 Petera 5:7" },
-  { "id": 26, "reference": "1 Jaona 4:8" },
-  { "id": 27, "reference": "Apokalypsy 3:20" },
-  { "id": 28, "reference": "Salamo 46:1" },
-  { "id": 29, "reference": "Salamo 34:8" },
-  { "id": 30, "reference": "Isaia 41:10" },
-
-  { "id": 31, "reference": "Matio 11:28" },
-  { "id": 32, "reference": "Jaona 8:12" },
-  { "id": 33, "reference": "Romana 5:8" },
-  { "id": 34, "reference": "1 Korintiana 10:13" },
-  { "id": 35, "reference": "2 Korintiana 5:17" },
-  { "id": 36, "reference": "Galatiana 2:20" },
-  { "id": 37, "reference": "Efesiana 6:11" },
-  { "id": 38, "reference": "Filipiana 1:6" },
-  { "id": 39, "reference": "Kolosiana 1:13" },
-  { "id": 40, "reference": "Hebreo 13:5" },
-
-  { "id": 41, "reference": "Jakoba 4:7" },
-  { "id": 42, "reference": "1 Petera 2:9" },
-  { "id": 43, "reference": "1 Jaona 1:9" },
-  { "id": 44, "reference": "Apokalypsy 21:4" },
-  { "id": 45, "reference": "Salamo 91:1" },
-  { "id": 46, "reference": "Salamo 27:1" },
-  { "id": 47, "reference": "Ohabolana 18:10" },
-  { "id": 48, "reference": "Isaia 26:3" },
-  { "id": 49, "reference": "Jeremia 33:3" },
-  { "id": 50, "reference": "Matio 7:7" },
-
-  { "id": 51, "reference": "Jaona 10:10" },
-  { "id": 52, "reference": "Romana 6:23" },
-  { "id": 53, "reference": "1 Korintiana 16:13" },
-  { "id": 54, "reference": "2 Korintiana 12:9" },
-  { "id": 55, "reference": "Galatiana 6:9" },
-  { "id": 56, "reference": "Efesiana 4:32" },
-  { "id": 57, "reference": "Filipiana 2:3" },
-  { "id": 58, "reference": "Kolosiana 3:2" },
-  { "id": 59, "reference": "1 Tesaloniana 5:16" },
-  { "id": 60, "reference": "2 Timoty 3:16" },
-
-  { "id": 61, "reference": "Hebreo 4:12" },
-  { "id": 62, "reference": "Jakoba 1:22" },
-  { "id": 63, "reference": "1 Petera 1:3" },
-  { "id": 64, "reference": "1 Jaona 3:1" },
-  { "id": 65, "reference": "Apokalypsy 22:21" },
-  { "id": 66, "reference": "Salamo 121:1" },
-  { "id": 67, "reference": "Salamo 37:4" },
-  { "id": 68, "reference": "Ohabolana 4:23" },
-  { "id": 69, "reference": "Isaia 55:8" },
-  { "id": 70, "reference": "Jeremia 17:7" },
-
-  { "id": 71, "reference": "Matio 28:19" },
-  { "id": 72, "reference": "Jaona 15:5" },
-  { "id": 73, "reference": "Romana 10:9" },
-  { "id": 74, "reference": "1 Korintiana 1:18" },
-  { "id": 75, "reference": "2 Korintiana 4:18" },
-  { "id": 76, "reference": "Galatiana 5:1" },
-  { "id": 77, "reference": "Efesiana 3:20" },
-  { "id": 78, "reference": "Filipiana 3:14" },
-  { "id": 79, "reference": "Kolosiana 2:6" },
-  { "id": 80, "reference": "1 Tesaloniana 5:24" },
-
-  { "id": 81, "reference": "2 Timoty 4:7" },
-  { "id": 82, "reference": "Hebreo 12:1" },
-  { "id": 83, "reference": "Jakoba 5:16" },
-  { "id": 84, "reference": "1 Petera 4:8" },
-  { "id": 85, "reference": "2 Petera 3:9" },
-  { "id": 86, "reference": "1 Jaona 5:14" },
-  { "id": 87, "reference": "Apokalypsy 1:8" },
-  { "id": 88, "reference": "Salamo 19:1" },
-  { "id": 89, "reference": "Salamo 150:6" },
-  { "id": 90, "reference": "Ohabolana 16:3" },
-
-  { "id": 91, "reference": "Isaia 9:6" },
-  { "id": 92, "reference": "Jeremia 1:5" },
-  { "id": 93, "reference": "Matio 5:14" },
-  { "id": 94, "reference": "Jaona 1:1" },
-  { "id": 95, "reference": "Romana 3:23" },
-  { "id": 96, "reference": "1 Korintiana 3:16" },
-  { "id": 97, "reference": "2 Korintiana 9:7" },
-  { "id": 98, "reference": "Galatiana 3:28" },
-  { "id": 99, "reference": "Efesiana 1:7" },
-  { "id": 100, "reference": "Filipiana 4:8" }
+  {
+    "id": 1,
+    "reference": "Jaona 3:16"
+  },
+  {
+    "id": 2,
+    "reference": "Salamo 23:1"
+  },
+  {
+    "id": 3,
+    "reference": "Matio 5:3"
+  },
+  {
+    "id": 4,
+    "reference": "Romana 8:28"
+  },
+  {
+    "id": 5,
+    "reference": "Filipiana 4:13"
+  },
+  {
+    "id": 6,
+    "reference": "Genesisy 1:1"
+  },
+  {
+    "id": 7,
+    "reference": "Eksodosy 20:3"
+  },
+  {
+    "id": 8,
+    "reference": "Salamo 119:105"
+  },
+  {
+    "id": 9,
+    "reference": "Ohabolana 3:5"
+  },
+  {
+    "id": 10,
+    "reference": "Isaia 40:31"
+  },
+  {
+    "id": 11,
+    "reference": "Jeremia 29:11"
+  },
+  {
+    "id": 12,
+    "reference": "Matio 6:33"
+  },
+  {
+    "id": 13,
+    "reference": "Jaona 14:6"
+  },
+  {
+    "id": 14,
+    "reference": "Asan'ny Apostoly 1:8"
+  },
+  {
+    "id": 15,
+    "reference": "Romana 12:2"
+  },
+  {
+    "id": 16,
+    "reference": "1 Korintiana 13:4"
+  },
+  {
+    "id": 17,
+    "reference": "Galatiana 5:22"
+  },
+  {
+    "id": 18,
+    "reference": "Efesiana 2:8"
+  },
+  {
+    "id": 19,
+    "reference": "Filipiana 4:6"
+  },
+  {
+    "id": 20,
+    "reference": "Kolosiana 3:23"
+  },
+  {
+    "id": 21,
+    "reference": "1 Tesaloniana 5:17"
+  },
+  {
+    "id": 22,
+    "reference": "2 Timoty 1:7"
+  },
+  {
+    "id": 23,
+    "reference": "Hebreo 11:1"
+  },
+  {
+    "id": 24,
+    "reference": "Jakoba 1:5"
+  },
+  {
+    "id": 25,
+    "reference": "1 Petera 5:7"
+  },
+  {
+    "id": 26,
+    "reference": "1 Jaona 4:8"
+  },
+  {
+    "id": 27,
+    "reference": "Apokalypsy 3:20"
+  },
+  {
+    "id": 28,
+    "reference": "Salamo 46:1"
+  },
+  {
+    "id": 29,
+    "reference": "Salamo 34:8"
+  },
+  {
+    "id": 30,
+    "reference": "Isaia 41:10"
+  },
+  {
+    "id": 31,
+    "reference": "Matio 11:28"
+  },
+  {
+    "id": 32,
+    "reference": "Jaona 8:12"
+  },
+  {
+    "id": 33,
+    "reference": "Romana 5:8"
+  },
+  {
+    "id": 34,
+    "reference": "1 Korintiana 10:13"
+  },
+  {
+    "id": 35,
+    "reference": "2 Korintiana 5:17"
+  },
+  {
+    "id": 36,
+    "reference": "Galatiana 2:20"
+  },
+  {
+    "id": 37,
+    "reference": "Efesiana 6:11"
+  },
+  {
+    "id": 38,
+    "reference": "Filipiana 1:6"
+  },
+  {
+    "id": 39,
+    "reference": "Kolosiana 1:13"
+  },
+  {
+    "id": 40,
+    "reference": "Hebreo 13:5"
+  },
+  {
+    "id": 41,
+    "reference": "Jakoba 4:7"
+  },
+  {
+    "id": 42,
+    "reference": "1 Petera 2:9"
+  },
+  {
+    "id": 43,
+    "reference": "1 Jaona 1:9"
+  },
+  {
+    "id": 44,
+    "reference": "Apokalypsy 21:4"
+  },
+  {
+    "id": 45,
+    "reference": "Salamo 91:1"
+  },
+  {
+    "id": 46,
+    "reference": "Salamo 27:1"
+  },
+  {
+    "id": 47,
+    "reference": "Ohabolana 18:10"
+  },
+  {
+    "id": 48,
+    "reference": "Isaia 26:3"
+  },
+  {
+    "id": 49,
+    "reference": "Jeremia 33:3"
+  },
+  {
+    "id": 50,
+    "reference": "Matio 7:7"
+  },
+  {
+    "id": 51,
+    "reference": "Jaona 10:10"
+  },
+  {
+    "id": 52,
+    "reference": "Romana 6:23"
+  },
+  {
+    "id": 53,
+    "reference": "1 Korintiana 16:13"
+  },
+  {
+    "id": 54,
+    "reference": "2 Korintiana 12:9"
+  },
+  {
+    "id": 55,
+    "reference": "Galatiana 6:9"
+  },
+  {
+    "id": 56,
+    "reference": "Efesiana 4:32"
+  },
+  {
+    "id": 57,
+    "reference": "Filipiana 2:3"
+  },
+  {
+    "id": 58,
+    "reference": "Kolosiana 3:2"
+  },
+  {
+    "id": 59,
+    "reference": "1 Tesaloniana 5:16"
+  },
+  {
+    "id": 60,
+    "reference": "2 Timoty 3:16"
+  },
+  {
+    "id": 61,
+    "reference": "Hebreo 4:12"
+  },
+  {
+    "id": 62,
+    "reference": "Jakoba 1:22"
+  },
+  {
+    "id": 63,
+    "reference": "1 Petera 1:3"
+  },
+  {
+    "id": 64,
+    "reference": "1 Jaona 3:1"
+  },
+  {
+    "id": 65,
+    "reference": "Apokalypsy 22:21"
+  },
+  {
+    "id": 66,
+    "reference": "Salamo 121:1"
+  },
+  {
+    "id": 67,
+    "reference": "Salamo 37:4"
+  },
+  {
+    "id": 68,
+    "reference": "Ohabolana 4:23"
+  },
+  {
+    "id": 69,
+    "reference": "Isaia 55:8"
+  },
+  {
+    "id": 70,
+    "reference": "Jeremia 17:7"
+  },
+  {
+    "id": 71,
+    "reference": "Matio 28:19"
+  },
+  {
+    "id": 72,
+    "reference": "Jaona 15:5"
+  },
+  {
+    "id": 73,
+    "reference": "Romana 10:9"
+  },
+  {
+    "id": 74,
+    "reference": "1 Korintiana 1:18"
+  },
+  {
+    "id": 75,
+    "reference": "2 Korintiana 4:18"
+  },
+  {
+    "id": 76,
+    "reference": "Galatiana 5:1"
+  },
+  {
+    "id": 77,
+    "reference": "Efesiana 3:20"
+  },
+  {
+    "id": 78,
+    "reference": "Filipiana 3:14"
+  },
+  {
+    "id": 79,
+    "reference": "Kolosiana 2:6"
+  },
+  {
+    "id": 80,
+    "reference": "1 Tesaloniana 5:24"
+  },
+  {
+    "id": 81,
+    "reference": "2 Timoty 4:7"
+  },
+  {
+    "id": 82,
+    "reference": "Hebreo 12:1"
+  },
+  {
+    "id": 83,
+    "reference": "Jakoba 5:16"
+  },
+  {
+    "id": 84,
+    "reference": "1 Petera 4:8"
+  },
+  {
+    "id": 85,
+    "reference": "2 Petera 3:9"
+  },
+  {
+    "id": 86,
+    "reference": "1 Jaona 5:14"
+  },
+  {
+    "id": 87,
+    "reference": "Apokalypsy 1:8"
+  },
+  {
+    "id": 88,
+    "reference": "Salamo 19:1"
+  },
+  {
+    "id": 89,
+    "reference": "Salamo 150:6"
+  },
+  {
+    "id": 90,
+    "reference": "Ohabolana 16:3"
+  },
+  {
+    "id": 91,
+    "reference": "Isaia 9:6"
+  },
+  {
+    "id": 92,
+    "reference": "Jeremia 1:5"
+  },
+  {
+    "id": 93,
+    "reference": "Matio 5:14"
+  },
+  {
+    "id": 94,
+    "reference": "Jaona 1:1"
+  },
+  {
+    "id": 95,
+    "reference": "Romana 3:23"
+  },
+  {
+    "id": 96,
+    "reference": "1 Korintiana 3:16"
+  },
+  {
+    "id": 97,
+    "reference": "2 Korintiana 9:7"
+  },
+  {
+    "id": 98,
+    "reference": "Galatiana 3:28"
+  },
+  {
+    "id": 99,
+    "reference": "Efesiana 1:7"
+  },
+  {
+    "id": 100,
+    "reference": "Filipiana 4:8"
+  },
+  {
+    "id": 101,
+    "reference": "Genesisy 1:27"
+  },
+  {
+    "id": 102,
+    "reference": "Genesisy 2:24"
+  },
+  {
+    "id": 103,
+    "reference": "Genesisy 3:15"
+  },
+  {
+    "id": 104,
+    "reference": "Genesisy 6:8"
+  },
+  {
+    "id": 105,
+    "reference": "Genesisy 9:13"
+  },
+  {
+    "id": 106,
+    "reference": "Genesisy 12:2"
+  },
+  {
+    "id": 107,
+    "reference": "Genesisy 15:6"
+  },
+  {
+    "id": 108,
+    "reference": "Genesisy 18:14"
+  },
+  {
+    "id": 109,
+    "reference": "Genesisy 22:14"
+  },
+  {
+    "id": 110,
+    "reference": "Genesisy 28:15"
+  },
+  {
+    "id": 111,
+    "reference": "Genesisy 50:20"
+  },
+  {
+    "id": 112,
+    "reference": "Eksodosy 3:14"
+  },
+  {
+    "id": 113,
+    "reference": "Eksodosy 14:14"
+  },
+  {
+    "id": 114,
+    "reference": "Eksodosy 15:2"
+  },
+  {
+    "id": 115,
+    "reference": "Eksodosy 33:14"
+  },
+  {
+    "id": 116,
+    "reference": "Levitikosy 19:18"
+  },
+  {
+    "id": 117,
+    "reference": "Nomery 6:24"
+  },
+  {
+    "id": 118,
+    "reference": "Nomery 23:19"
+  },
+  {
+    "id": 119,
+    "reference": "Deoteronomia 6:5"
+  },
+  {
+    "id": 120,
+    "reference": "Deoteronomia 8:3"
+  },
+  {
+    "id": 121,
+    "reference": "Deoteronomia 31:6"
+  },
+  {
+    "id": 122,
+    "reference": "Deoteronomia 31:8"
+  },
+  {
+    "id": 123,
+    "reference": "Josoa 1:9"
+  },
+  {
+    "id": 124,
+    "reference": "Josoa 24:15"
+  },
+  {
+    "id": 125,
+    "reference": "Mpitsara 6:12"
+  },
+  {
+    "id": 126,
+    "reference": "Rota 1:16"
+  },
+  {
+    "id": 127,
+    "reference": "1 Samoela 16:7"
+  },
+  {
+    "id": 128,
+    "reference": "1 Samoela 17:47"
+  },
+  {
+    "id": 129,
+    "reference": "2 Samoela 22:31"
+  },
+  {
+    "id": 130,
+    "reference": "1 Mpanjaka 8:57"
+  },
+  {
+    "id": 131,
+    "reference": "2 Mpanjaka 6:16"
+  },
+  {
+    "id": 132,
+    "reference": "1 Tantara 16:11"
+  },
+  {
+    "id": 133,
+    "reference": "1 Tantara 16:34"
+  },
+  {
+    "id": 134,
+    "reference": "2 Tantara 7:14"
+  },
+  {
+    "id": 135,
+    "reference": "Ezra 8:22"
+  },
+  {
+    "id": 136,
+    "reference": "Nehemia 8:10"
+  },
+  {
+    "id": 137,
+    "reference": "Estera 4:14"
+  },
+  {
+    "id": 138,
+    "reference": "Joba 19:25"
+  },
+  {
+    "id": 139,
+    "reference": "Joba 23:10"
+  },
+  {
+    "id": 140,
+    "reference": "Joba 42:2"
+  },
+  {
+    "id": 141,
+    "reference": "Salamo 1:1"
+  },
+  {
+    "id": 142,
+    "reference": "Salamo 8:3"
+  },
+  {
+    "id": 143,
+    "reference": "Salamo 16:11"
+  },
+  {
+    "id": 144,
+    "reference": "Salamo 18:2"
+  },
+  {
+    "id": 145,
+    "reference": "Salamo 27:4"
+  },
+  {
+    "id": 146,
+    "reference": "Salamo 28:7"
+  },
+  {
+    "id": 147,
+    "reference": "Salamo 30:5"
+  },
+  {
+    "id": 148,
+    "reference": "Salamo 32:8"
+  },
+  {
+    "id": 149,
+    "reference": "Salamo 34:18"
+  },
+  {
+    "id": 150,
+    "reference": "Salamo 37:5"
+  },
+  {
+    "id": 151,
+    "reference": "Salamo 40:1"
+  },
+  {
+    "id": 152,
+    "reference": "Salamo 42:1"
+  },
+  {
+    "id": 153,
+    "reference": "Salamo 46:10"
+  },
+  {
+    "id": 154,
+    "reference": "Salamo 51:10"
+  },
+  {
+    "id": 155,
+    "reference": "Salamo 55:22"
+  },
+  {
+    "id": 156,
+    "reference": "Salamo 56:3"
+  },
+  {
+    "id": 157,
+    "reference": "Salamo 62:1"
+  },
+  {
+    "id": 158,
+    "reference": "Salamo 62:5"
+  },
+  {
+    "id": 159,
+    "reference": "Salamo 63:1"
+  },
+  {
+    "id": 160,
+    "reference": "Salamo 84:11"
+  },
+  {
+    "id": 161,
+    "reference": "Salamo 90:12"
+  },
+  {
+    "id": 162,
+    "reference": "Salamo 91:2"
+  },
+  {
+    "id": 163,
+    "reference": "Salamo 94:19"
+  },
+  {
+    "id": 164,
+    "reference": "Salamo 100:3"
+  },
+  {
+    "id": 165,
+    "reference": "Salamo 103:1"
+  },
+  {
+    "id": 166,
+    "reference": "Salamo 103:12"
+  },
+  {
+    "id": 167,
+    "reference": "Salamo 107:1"
+  },
+  {
+    "id": 168,
+    "reference": "Salamo 116:1"
+  },
+  {
+    "id": 169,
+    "reference": "Salamo 118:24"
+  },
+  {
+    "id": 170,
+    "reference": "Salamo 119:11"
+  },
+  {
+    "id": 171,
+    "reference": "Salamo 121:2"
+  },
+  {
+    "id": 172,
+    "reference": "Salamo 126:5"
+  },
+  {
+    "id": 173,
+    "reference": "Salamo 127:1"
+  },
+  {
+    "id": 174,
+    "reference": "Salamo 130:5"
+  },
+  {
+    "id": 175,
+    "reference": "Salamo 133:1"
+  },
+  {
+    "id": 176,
+    "reference": "Salamo 136:1"
+  },
+  {
+    "id": 177,
+    "reference": "Salamo 138:8"
+  },
+  {
+    "id": 178,
+    "reference": "Salamo 139:14"
+  },
+  {
+    "id": 179,
+    "reference": "Salamo 143:8"
+  },
+  {
+    "id": 180,
+    "reference": "Salamo 145:18"
+  },
+  {
+    "id": 181,
+    "reference": "Salamo 147:3"
+  },
+  {
+    "id": 182,
+    "reference": "Ohabolana 1:7"
+  },
+  {
+    "id": 183,
+    "reference": "Ohabolana 11:25"
+  },
+  {
+    "id": 184,
+    "reference": "Ohabolana 13:20"
+  },
+  {
+    "id": 185,
+    "reference": "Ohabolana 16:9"
+  },
+  {
+    "id": 186,
+    "reference": "Ohabolana 17:17"
+  },
+  {
+    "id": 187,
+    "reference": "Ohabolana 18:24"
+  },
+  {
+    "id": 188,
+    "reference": "Ohabolana 22:6"
+  },
+  {
+    "id": 189,
+    "reference": "Ohabolana 27:17"
+  },
+  {
+    "id": 190,
+    "reference": "Ohabolana 29:18"
+  },
+  {
+    "id": 191,
+    "reference": "Ohabolana 31:25"
+  },
+  {
+    "id": 192,
+    "reference": "Mpitoriteny 3:1"
+  },
+  {
+    "id": 193,
+    "reference": "Mpitoriteny 3:11"
+  },
+  {
+    "id": 194,
+    "reference": "Mpitoriteny 4:9"
+  },
+  {
+    "id": 195,
+    "reference": "Tononkiran'i Solomona 8:7"
+  },
+  {
+    "id": 196,
+    "reference": "Isaia 1:18"
+  },
+  {
+    "id": 197,
+    "reference": "Isaia 6:8"
+  },
+  {
+    "id": 198,
+    "reference": "Isaia 40:8"
+  },
+  {
+    "id": 199,
+    "reference": "Isaia 40:28"
+  },
+  {
+    "id": 200,
+    "reference": "Isaia 41:13"
+  },
+  {
+    "id": 201,
+    "reference": "Isaia 43:2"
+  },
+  {
+    "id": 202,
+    "reference": "Isaia 43:18"
+  },
+  {
+    "id": 203,
+    "reference": "Isaia 53:5"
+  },
+  {
+    "id": 204,
+    "reference": "Isaia 58:11"
+  },
+  {
+    "id": 205,
+    "reference": "Isaia 64:8"
+  },
+  {
+    "id": 206,
+    "reference": "Jeremia 17:9"
+  },
+  {
+    "id": 207,
+    "reference": "Jeremia 31:3"
+  },
+  {
+    "id": 208,
+    "reference": "Fitomaniana 3:22"
+  },
+  {
+    "id": 209,
+    "reference": "Ezekiela 36:26"
+  },
+  {
+    "id": 210,
+    "reference": "Daniela 3:17"
+  },
+  {
+    "id": 211,
+    "reference": "Daniela 6:22"
+  },
+  {
+    "id": 212,
+    "reference": "Hosea 6:3"
+  },
+  {
+    "id": 213,
+    "reference": "Joela 2:25"
+  },
+  {
+    "id": 214,
+    "reference": "Amosa 5:24"
+  },
+  {
+    "id": 215,
+    "reference": "Obadia 1:15"
+  },
+  {
+    "id": 216,
+    "reference": "Jona 2:2"
+  },
+  {
+    "id": 217,
+    "reference": "Mika 6:8"
+  },
+  {
+    "id": 218,
+    "reference": "Nahoma 1:7"
+  },
+  {
+    "id": 219,
+    "reference": "Habakoka 3:19"
+  },
+  {
+    "id": 220,
+    "reference": "Zefania 3:17"
+  },
+  {
+    "id": 221,
+    "reference": "Hagay 2:9"
+  },
+  {
+    "id": 222,
+    "reference": "Zakaria 4:6"
+  },
+  {
+    "id": 223,
+    "reference": "Malakia 3:10"
+  },
+  {
+    "id": 224,
+    "reference": "Matio 4:4"
+  },
+  {
+    "id": 225,
+    "reference": "Matio 5:9"
+  },
+  {
+    "id": 226,
+    "reference": "Matio 5:16"
+  },
+  {
+    "id": 227,
+    "reference": "Matio 6:9"
+  },
+  {
+    "id": 228,
+    "reference": "Matio 6:19"
+  },
+  {
+    "id": 229,
+    "reference": "Matio 6:26"
+  },
+  {
+    "id": 230,
+    "reference": "Matio 6:34"
+  },
+  {
+    "id": 231,
+    "reference": "Matio 7:1"
+  },
+  {
+    "id": 232,
+    "reference": "Matio 7:12"
+  },
+  {
+    "id": 233,
+    "reference": "Matio 9:37"
+  },
+  {
+    "id": 234,
+    "reference": "Matio 10:29"
+  },
+  {
+    "id": 235,
+    "reference": "Matio 11:29"
+  },
+  {
+    "id": 236,
+    "reference": "Matio 16:24"
+  },
+  {
+    "id": 237,
+    "reference": "Matio 16:26"
+  },
+  {
+    "id": 238,
+    "reference": "Matio 18:20"
+  },
+  {
+    "id": 239,
+    "reference": "Matio 19:26"
+  },
+  {
+    "id": 240,
+    "reference": "Matio 22:37"
+  },
+  {
+    "id": 241,
+    "reference": "Matio 25:21"
+  },
+  {
+    "id": 242,
+    "reference": "Matio 28:20"
+  },
+  {
+    "id": 243,
+    "reference": "Marka 8:36"
+  },
+  {
+    "id": 244,
+    "reference": "Marka 9:23"
+  },
+  {
+    "id": 245,
+    "reference": "Marka 10:27"
+  },
+  {
+    "id": 246,
+    "reference": "Marka 11:24"
+  },
+  {
+    "id": 247,
+    "reference": "Marka 12:30"
+  },
+  {
+    "id": 248,
+    "reference": "Marka 16:15"
+  },
+  {
+    "id": 249,
+    "reference": "Lioka 1:37"
+  },
+  {
+    "id": 250,
+    "reference": "Lioka 2:10"
+  },
+  {
+    "id": 251,
+    "reference": "Lioka 6:31"
+  },
+  {
+    "id": 252,
+    "reference": "Lioka 6:38"
+  },
+  {
+    "id": 253,
+    "reference": "Lioka 9:23"
+  },
+  {
+    "id": 254,
+    "reference": "Lioka 11:9"
+  },
+  {
+    "id": 255,
+    "reference": "Lioka 12:34"
+  },
+  {
+    "id": 256,
+    "reference": "Lioka 18:27"
+  },
+  {
+    "id": 257,
+    "reference": "Jaona 1:12"
+  },
+  {
+    "id": 258,
+    "reference": "Jaona 3:17"
+  },
+  {
+    "id": 259,
+    "reference": "Jaona 8:32"
+  },
+  {
+    "id": 260,
+    "reference": "Jaona 10:27"
+  },
+  {
+    "id": 261,
+    "reference": "Jaona 11:25"
+  },
+  {
+    "id": 262,
+    "reference": "Jaona 13:34"
+  },
+  {
+    "id": 263,
+    "reference": "Jaona 14:1"
+  },
+  {
+    "id": 264,
+    "reference": "Jaona 14:27"
+  },
+  {
+    "id": 265,
+    "reference": "Jaona 15:13"
+  },
+  {
+    "id": 266,
+    "reference": "Jaona 16:33"
+  },
+  {
+    "id": 267,
+    "reference": "Jaona 20:29"
+  },
+  {
+    "id": 268,
+    "reference": "Asan'ny Apostoly 2:38"
+  },
+  {
+    "id": 269,
+    "reference": "Asan'ny Apostoly 4:12"
+  },
+  {
+    "id": 270,
+    "reference": "Asan'ny Apostoly 16:31"
+  },
+  {
+    "id": 271,
+    "reference": "Asan'ny Apostoly 17:28"
+  },
+  {
+    "id": 272,
+    "reference": "Asan'ny Apostoly 20:35"
+  },
+  {
+    "id": 273,
+    "reference": "Romana 1:16"
+  },
+  {
+    "id": 274,
+    "reference": "Romana 5:1"
+  },
+  {
+    "id": 275,
+    "reference": "Romana 8:1"
+  },
+  {
+    "id": 276,
+    "reference": "Romana 8:18"
+  },
+  {
+    "id": 277,
+    "reference": "Romana 8:31"
+  },
+  {
+    "id": 278,
+    "reference": "Romana 8:38"
+  },
+  {
+    "id": 279,
+    "reference": "Romana 10:17"
+  },
+  {
+    "id": 280,
+    "reference": "Romana 12:1"
+  },
+  {
+    "id": 281,
+    "reference": "Romana 12:12"
+  },
+  {
+    "id": 282,
+    "reference": "Romana 15:13"
+  },
+  {
+    "id": 283,
+    "reference": "1 Korintiana 2:9"
+  },
+  {
+    "id": 284,
+    "reference": "1 Korintiana 6:19"
+  },
+  {
+    "id": 285,
+    "reference": "1 Korintiana 10:31"
+  },
+  {
+    "id": 286,
+    "reference": "1 Korintiana 13:13"
+  },
+  {
+    "id": 287,
+    "reference": "1 Korintiana 15:57"
+  },
+  {
+    "id": 288,
+    "reference": "1 Korintiana 16:14"
+  },
+  {
+    "id": 289,
+    "reference": "2 Korintiana 1:3"
+  },
+  {
+    "id": 290,
+    "reference": "2 Korintiana 3:17"
+  },
+  {
+    "id": 291,
+    "reference": "2 Korintiana 4:16"
+  },
+  {
+    "id": 292,
+    "reference": "2 Korintiana 5:7"
+  },
+  {
+    "id": 293,
+    "reference": "2 Korintiana 5:21"
+  },
+  {
+    "id": 294,
+    "reference": "2 Korintiana 9:6"
+  },
+  {
+    "id": 295,
+    "reference": "Galatiana 5:13"
+  },
+  {
+    "id": 296,
+    "reference": "Galatiana 6:2"
+  },
+  {
+    "id": 297,
+    "reference": "Efesiana 2:10"
+  },
+  {
+    "id": 298,
+    "reference": "Efesiana 5:25"
+  },
+  {
+    "id": 299,
+    "reference": "Efesiana 6:10"
+  },
+  {
+    "id": 300,
+    "reference": "Filipiana 1:21"
+  },
+  {
+    "id": 301,
+    "reference": "Filipiana 2:4"
+  },
+  {
+    "id": 302,
+    "reference": "Filipiana 4:4"
+  },
+  {
+    "id": 303,
+    "reference": "Filipiana 4:7"
+  },
+  {
+    "id": 304,
+    "reference": "Filipiana 4:11"
+  },
+  {
+    "id": 305,
+    "reference": "Filipiana 4:19"
+  },
+  {
+    "id": 306,
+    "reference": "Kolosiana 1:17"
+  },
+  {
+    "id": 307,
+    "reference": "Kolosiana 2:7"
+  },
+  {
+    "id": 308,
+    "reference": "Kolosiana 3:12"
+  },
+  {
+    "id": 309,
+    "reference": "Kolosiana 3:24"
+  },
+  {
+    "id": 310,
+    "reference": "1 Tesaloniana 5:18"
+  },
+  {
+    "id": 311,
+    "reference": "2 Tesaloniana 3:3"
+  },
+  {
+    "id": 312,
+    "reference": "1 Timoty 4:12"
+  },
+  {
+    "id": 313,
+    "reference": "1 Timoty 6:6"
+  },
+  {
+    "id": 314,
+    "reference": "1 Timoty 6:12"
+  },
+  {
+    "id": 315,
+    "reference": "2 Timoty 3:17"
+  },
+  {
+    "id": 316,
+    "reference": "Titosy 3:5"
+  },
+  {
+    "id": 317,
+    "reference": "Filemona 1:6"
+  },
+  {
+    "id": 318,
+    "reference": "Hebreo 4:16"
+  },
+  {
+    "id": 319,
+    "reference": "Hebreo 10:24"
+  },
+  {
+    "id": 320,
+    "reference": "Hebreo 11:6"
+  },
+  {
+    "id": 321,
+    "reference": "Hebreo 12:2"
+  },
+  {
+    "id": 322,
+    "reference": "Hebreo 13:8"
+  },
+  {
+    "id": 323,
+    "reference": "Jakoba 1:2"
+  },
+  {
+    "id": 324,
+    "reference": "Jakoba 1:12"
+  },
+  {
+    "id": 325,
+    "reference": "Jakoba 1:17"
+  },
+  {
+    "id": 326,
+    "reference": "Jakoba 4:8"
+  },
+  {
+    "id": 327,
+    "reference": "1 Petera 3:15"
+  },
+  {
+    "id": 328,
+    "reference": "1 Petera 4:10"
+  },
+  {
+    "id": 329,
+    "reference": "1 Petera 5:6"
+  },
+  {
+    "id": 330,
+    "reference": "2 Petera 1:3"
+  },
+  {
+    "id": 331,
+    "reference": "2 Petera 3:18"
+  },
+  {
+    "id": 332,
+    "reference": "1 Jaona 3:18"
+  },
+  {
+    "id": 333,
+    "reference": "1 Jaona 4:7"
+  },
+  {
+    "id": 334,
+    "reference": "1 Jaona 4:18"
+  },
+  {
+    "id": 335,
+    "reference": "1 Jaona 4:19"
+  },
+  {
+    "id": 336,
+    "reference": "2 Jaona 1:6"
+  },
+  {
+    "id": 337,
+    "reference": "3 Jaona 1:2"
+  },
+  {
+    "id": 338,
+    "reference": "Joda 1:24"
+  },
+  {
+    "id": 339,
+    "reference": "Apokalypsy 21:5"
+  },
+  {
+    "id": 340,
+    "reference": "Apokalypsy 22:13"
+  },
+  {
+    "id": 341,
+    "reference": "Genesisy 4:7"
+  },
+  {
+    "id": 342,
+    "reference": "Genesisy 8:22"
+  },
+  {
+    "id": 343,
+    "reference": "Genesisy 13:14"
+  },
+  {
+    "id": 344,
+    "reference": "Genesisy 17:1"
+  },
+  {
+    "id": 345,
+    "reference": "Genesisy 24:27"
+  },
+  {
+    "id": 346,
+    "reference": "Genesisy 32:26"
+  },
+  {
+    "id": 347,
+    "reference": "Genesisy 39:2"
+  },
+  {
+    "id": 348,
+    "reference": "Genesisy 41:16"
+  },
+  {
+    "id": 349,
+    "reference": "Eksodosy 4:12"
+  },
+  {
+    "id": 350,
+    "reference": "Eksodosy 6:7"
+  },
+  {
+    "id": 351,
+    "reference": "Eksodosy 13:21"
+  },
+  {
+    "id": 352,
+    "reference": "Eksodosy 16:4"
+  },
+  {
+    "id": 353,
+    "reference": "Eksodosy 19:5"
+  },
+  {
+    "id": 354,
+    "reference": "Eksodosy 25:8"
+  },
+  {
+    "id": 355,
+    "reference": "Eksodosy 34:6"
+  },
+  {
+    "id": 356,
+    "reference": "Levitikosy 20:26"
+  },
+  {
+    "id": 357,
+    "reference": "Levitikosy 26:12"
+  },
+  {
+    "id": 358,
+    "reference": "Nomery 14:9"
+  },
+  {
+    "id": 359,
+    "reference": "Nomery 21:8"
+  },
+  {
+    "id": 360,
+    "reference": "Deoteronomia 4:29"
+  },
+  {
+    "id": 361,
+    "reference": "Deoteronomia 10:12"
+  },
+  {
+    "id": 362,
+    "reference": "Deoteronomia 28:1"
+  },
+  {
+    "id": 363,
+    "reference": "Deoteronomia 30:19"
+  },
+  {
+    "id": 364,
+    "reference": "Deoteronomia 32:4"
+  },
+  {
+    "id": 365,
+    "reference": "Josoa 1:8"
+  }
 ]
